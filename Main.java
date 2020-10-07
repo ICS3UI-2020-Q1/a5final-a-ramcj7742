@@ -29,7 +29,7 @@ public class Main {
       if(i == userNum - 1 && userNum % 2 == 0){
         System.out.print("white");
       }else if(i == userNum - 1){
-      System.out.print("black");
+        System.out.print("black");
       }
     }
     
